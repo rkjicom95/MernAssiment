@@ -1,0 +1,31 @@
+.clients{
+  font-size: 22px;
+  color: black;
+  /* margin: 10px; */
+}
+
+.client{
+  width: 60%;
+  margin: 1rem;
+
+}
+.edit{
+  display: flex;
+}
+
+.data{
+  display: flex;
+  flex-direction: row;
+}
+.htmlForm{
+width: 30%;
+margin: 1rem;
+}
+.delete{
+  display: flex;
+  flex-direction: row;
+}
+.input{
+  width: 70%;
+}
+
